@@ -1,0 +1,15 @@
+C:\Project\Second largest number in an array\Second largest number in an array\bin\Debug\net6.0\Second largest number in an array.exe
+C:\Project\Second largest number in an array\Second largest number in an array\bin\Debug\net6.0\Second largest number in an array.deps.json
+C:\Project\Second largest number in an array\Second largest number in an array\bin\Debug\net6.0\Second largest number in an array.runtimeconfig.json
+C:\Project\Second largest number in an array\Second largest number in an array\bin\Debug\net6.0\Second largest number in an array.dll
+C:\Project\Second largest number in an array\Second largest number in an array\bin\Debug\net6.0\Second largest number in an array.pdb
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.csproj.AssemblyReference.cache
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.AssemblyInfoInputs.cache
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.AssemblyInfo.cs
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.csproj.CoreCompileInputs.cache
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.dll
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\refint\Second largest number in an array.dll
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.pdb
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\Second largest number in an array.genruntimeconfig.cache
+C:\Project\Second largest number in an array\Second largest number in an array\obj\Debug\net6.0\ref\Second largest number in an array.dll
